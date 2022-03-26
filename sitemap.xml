@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://hreflang.test/</loc>
+    <xhtml:link
+               rel="alternate"
+               hreflang="es"
+               href="http://hreflang.test/es"/>
+   <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="http://hreflang.test/"/>
+  </url>
+
+  <url>
+    <loc>http://hreflang.test/pdf/english.pdf</loc>
+    <xhtml:link
+               rel="alternate"
+               hreflang="es"
+               href="http://hreflang.test/pdf/spanish.pdf"/>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="http://hreflang.test/pdf/english.pdf"/>
+  </url>
+
+  <url>
+    <loc>http://hreflang.test/es</loc>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="http://hreflang.test/"/>
+   <xhtml:link
+              rel="alternate"
+              hreflang="es"
+              href="http://hreflang.test/es"/>
+
+  </url>
+
+  <url>
+    <loc>http://hreflang.test/pdf/spanish.pdf</loc>
+    <xhtml:link
+               rel="alternate"
+               hreflang="es"
+               href="http://hreflang.test/pdf/spanish.pdf"/>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="http://hreflang.test/pdf/english.pdf"/>
+  </url>
+
+</urlset>

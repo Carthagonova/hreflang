@@ -1,0 +1,3 @@
+<ifModule mod_headers.c>
+Header set X-Carlos "Bienvenido a la web mas intensa sobre SEO Tecnico, carlos.sanchezdonate.com"
+</ifModule>

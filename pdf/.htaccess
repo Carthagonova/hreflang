@@ -1,0 +1,6 @@
+
+# https://developers.google.com/search/docs/advanced/crawling/localized-versions#http
+# https://developers.google.com/search/docs/advanced/robots/robots_meta_tag#xrobotstag-implementation
+<Files ~ "\.pdf$>
+Header add Link "<http://hreflang.test/pdf/english.pdf>; rel=\"alternate\" hreflang=\"en\", <http://hreflang.test/pdf/spanish.pdf>; rel=\"alternate\" hreflang=\"es\", "
+</Files>

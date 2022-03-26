@@ -1,0 +1,36 @@
+h1 {
+    font-size: 96px;
+    text-align: center;
+    color: #8d096b;
+}
+ul {
+    display: flex;
+    list-style: none;
+    font-size: 52px;
+    justify-content: space-around;
+}
+a {
+    text-decoration: none;
+    background: #f4b61c;
+    color: #faf7fb;
+    padding: 24px;
+    text-transform: uppercase;
+}
+.codigo-post {
+    background: var(--light-grey);
+    cursor: text;
+    font-size: 16px;
+    display: inline-block;
+    overflow-x: scroll;
+    display: block;
+    max-width: 100%;
+    min-width: 100px;
+    background-color: #0c1021;
+    color: var(--white);
+    padding: 40px 16px 16px;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='54' height='14' viewBox='0 0 54 14'%3E%3Cg fill='none' fill-rule='evenodd' transform='translate(1 1)'%3E%3Ccircle cx='6' cy='6' r='6' fill='%23FF5F56' stroke='%23E0443E' stroke-width='.5'%3E%3C/circle%3E%3Ccircle cx='26' cy='6' r='6' fill='%23FFBD2E' stroke='%23DEA123' stroke-width='.5'%3E%3C/circle%3E%3Ccircle cx='46' cy='6' r='6' fill='%2327C93F' stroke='%231AAB29' stroke-width='.5'%3E%3C/circle%3E%3C/g%3E%3C/svg%3E");
+    background-repeat: no-repeat;
+    background-position: 16px 8px;
+    font-family: monospace;
+    background-attachment: local;
+}
